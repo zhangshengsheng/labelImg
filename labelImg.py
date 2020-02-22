@@ -23,8 +23,8 @@ except ImportError:
     if sys.version_info.major >= 3:
         import sip
         sip.setapi('QVariant', 2)
-    from PyQt4.QtGui import *
-    from PyQt4.QtCore import *
+    from PyQt5.QtGui import *
+    from PyQt5.QtCore import *
 
 import resources
 # Add internal libs

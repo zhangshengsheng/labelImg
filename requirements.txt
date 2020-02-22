@@ -1,0 +1,16 @@
+certifi==2019.11.28
+chardet==3.0.4
+idna==2.9
+lxml==4.5.0
+packaging==20.1
+pymongo==3.10.1
+pyparsing==2.4.6
+PyQt5==5.14.1
+PyQt5-sip==12.7.1
+requests==2.23.0
+resources==0.0.1
+sip==5.1.1
+six==1.14.0
+staty==1.2.3
+toml==0.10.0
+urllib3==1.25.8
